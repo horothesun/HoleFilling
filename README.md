@@ -18,4 +18,4 @@
     * pixel connectivity ('4' or '8')
     * output image absolute path.
 
-* Running the​ `HoleFilling`​ scheme in Xcode prints out the app build path,useful to locate the executable and test the app via command line.
+* Running the​ `HoleFilling`​ scheme in Xcode prints out the app build path, useful to locate the executable and test the app via command line.
